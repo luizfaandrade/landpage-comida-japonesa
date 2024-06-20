@@ -76,3 +76,35 @@ a{
         opacity: 0;
     }
  }
+
+/* responsivo */
+
+ @media  screen and (max-width: 768px) {
+    .container {
+
+        display: block;
+        background-image: none;
+    }
+
+    .cointaner_imagem {
+
+        width: 50vw;
+    }
+
+    .cocointaner_caixa {
+
+        margin: 2em 2em;
+    }
+
+    .secundadio {
+        margin: 0;
+        text-align: center;
+    } 
+
+    .secundario__imagem {
+
+        width: 50;
+    }
+
+
+ }
