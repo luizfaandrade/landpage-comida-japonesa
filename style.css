@@ -87,7 +87,7 @@ a{
     }
 
     .cointaner_imagem {
-
+        image: center ;
         width: 50vw;
     }
 
