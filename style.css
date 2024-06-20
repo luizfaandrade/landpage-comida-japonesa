@@ -40,10 +40,10 @@ h1 {
 
  #bg-image{
     background-image: url("https://images.pexels.com/photos/2098085/pexels-photo-2098085.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
-
-    background-position: center;
-    background-size: contain;
+    
     background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
 
     opacity: 0.3;
     position: absolute;
@@ -87,7 +87,6 @@ a{
     }
 
     .cointaner_imagem {
-        image: center ;
         width: 50vw;
     }
 
